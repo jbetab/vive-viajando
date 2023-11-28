@@ -1,0 +1,14 @@
+.carousell{
+    background-color:   rgb(195, 212, 212);
+    padding: 150px;
+    
+}
+div img{
+    height: 600px;
+    width: 100px;
+}
+.carousel-inner{
+    width: 200px;
+    height: 600px;
+    
+}
